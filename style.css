@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-
 .container {
   width: 100%;
   min-height: 100vh;
@@ -50,13 +49,13 @@ input {
 button {
   border: none;
   outline: none;
-  padding: 12px 39px;
-  padding-right: 41px;
+  padding: 12px 30px;
+  margin-right: 2%;
   font-size: 12px;
   cursor: pointer;
   color: white;
-  background-color: cyan;
-  /* background: #ff5929; */
+  /* background-color: cyan; */
+  background: #ff5929;
   border-radius: 40px;
 }
 ul li {
@@ -103,4 +102,3 @@ ul li span {
 ul li span:hover {
   background-color: #edeef0;
 }
-
