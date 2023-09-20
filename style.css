@@ -55,7 +55,8 @@ button {
   font-size: 12px;
   cursor: pointer;
   color: white;
-  background: #ff5929;
+  background-color: cyan;
+  /* background: #ff5929; */
   border-radius: 40px;
 }
 ul li {
